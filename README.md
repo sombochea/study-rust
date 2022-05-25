@@ -1,2 +1,3 @@
-# study-rust
+# Study Rust
+
 A collection of coding in rust...
